@@ -6,8 +6,8 @@
 ## Face Mask Detection System | Pipeline 
 ![image](https://user-images.githubusercontent.com/67474818/118885726-c37af880-b915-11eb-970c-5fdac872c483.png)
 ## Face Mask Detection System | Dataset
-The data can be downloaded from: https://drive.google.com/drive/folders/1bFZ1qSCOpvid37AIzT2ejFza4h-L8MKw?usp=sharing
-This dataset consists of 4,455 images belonging to two classes:
+1. The data can be downloaded from: https://drive.google.com/drive/folders/1bFZ1qSCOpvid37AIzT2ejFza4h-L8MKw?usp=sharing
+2. This dataset consists of 4,455 images belonging to two classes:
 - with_mask
 - without_mask
 
